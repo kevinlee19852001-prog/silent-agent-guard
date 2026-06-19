@@ -1,5 +1,5 @@
 # silent-agent-guard
-
+GitHub tagline
 **Stop wasting tokens on events that should have stayed silent.**
 
 `silent-agent-guard` is a tiny, local-first Python guardrail for AI agents.
